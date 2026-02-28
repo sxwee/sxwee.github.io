@@ -54,7 +54,7 @@ _IEEE Transactions on Knowledge and Data Engineering (TKDE)_
 - 基于 Python 的数据采集实验项目  
 - 涵盖基础反爬策略与结构化数据处理  
 
-🔗 https://github.com/sxwee/python_spider
+🔗 [Github](#https://github.com/sxwee/python_spider)
 
 ---
 
@@ -63,16 +63,16 @@ _IEEE Transactions on Knowledge and Data Engineering (TKDE)_
 - 基于 BERT + BiLSTM + CRF 的实体识别模型  
 - 面向序列标注任务的深度学习实现  
 
-🔗 https://github.com/sxwee/BERT_BiLSTM_CRF_NER
+🔗 [Github](#https://github.com/sxwee/BERT_BiLSTM_CRF_NER)
 
 ---
 
 ### 🔗 图机器学习实验
 
 - 图神经网络算法实现与实验平台  
-- 涵盖 GCN / GAT 等模型结构  
+- 涵盖 GCN / GAT 等经典模型结构  
 
-🔗 https://github.com/sxwee/GNNsIMPL
+🔗 [Github](#https://github.com/sxwee/GNNsIMPL)
 
 ---
 
@@ -82,4 +82,4 @@ _IEEE Transactions on Knowledge and Data Engineering (TKDE)_
 
 ---
 
-> Stay curious. Build deeply. Think structurally.
+> Talk is cheap, show me the code.
